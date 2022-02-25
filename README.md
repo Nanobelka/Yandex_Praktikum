@@ -3,5 +3,6 @@
 
 | Название проекта      | Описание              | Используемые библиотеки   |
 |-----------------------|-----------------------|---------------------------|
-| [bank_churn](https://github.com/Nanobelka/Yandex_Praktikum/tree/main/bank_churn) | Портрет клиента, склонного к уходу из банка | pandas, numpy, matplotlib |
+| [bank_churn](https://github.com/Nanobelka/Yandex_Praktikum/tree/main/bank_churn) | Портрет клиента, склонного к уходу из банка | pandas, numpy, matplotlib, seaborn, scipy, sklearn |
+|                       |                       |                           |
 |                       |                       |                           |
