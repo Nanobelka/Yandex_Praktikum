@@ -1,5 +1,3 @@
-**!** *При загрузке в репозиторий форматирование частично нарушается. Например, не отображается нумерация разделов, пропадает цветное форматирование таблиц и т.д. В Jupyter Notebook оригиналы выглядят лучше ))*
-
 # Яндекс.Практикум
 
 Учебные проекты в рамках обучения на курсе "Аналитик данных"
@@ -12,3 +10,5 @@
 | [Анализ рынка заведений общественного питания](https://github.com/Nanobelka/Yandex_Praktikum/tree/main/catering) | Анализ поведения пользователей в мобильном приложении для продажи продуктов питания | pandas, numpy, matplotlib, seaborn, scipy |
 | [Исследование данных интернет-магазина](https://github.com/Nanobelka/Yandex_Praktikum/tree/main/online_shop) | Подготовка рекомендаций по результатам анализа А/В-теста | pandas, numpy, matplotlib, seaborn, scipy |
 | [Исследование с применением когортного анализа](https://github.com/Nanobelka/Yandex_Praktikum/tree/main/cohort_analysis) | Расчет метрик продуктовых, электронной коммерции, маркетинговых | pandas, numpy, matplotlib, seaborn |
+
+https://github.com/Nanobelka/Yandex_Praktikum/blob/main/online_shop/online_shop.ipynb
