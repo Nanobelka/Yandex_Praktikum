@@ -1,4 +1,5 @@
 # [Анализ оттока клиентов банка](https://github.com/Nanobelka/Yandex_Praktikum/blob/main/bank_churn/bank_churn.ipynb)
+## Портрет клиента, склонного к уходу из банка
 
 **Заказчик:** некий банк.
 
