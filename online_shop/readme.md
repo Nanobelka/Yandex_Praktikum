@@ -1,4 +1,5 @@
-# [Исследование данных интернет-магазина](https://github.com/Nanobelka/Yandex_Praktikum/blob/main/online_shop/online_shop.ipynb)
+# [Проверка гипотез по увеличению выручки в интернет-магазине; оценка результатов A/B-теста](https://github.com/Nanobelka/Yandex_Praktikum/blob/main/online_shop/online_shop.ipynb)
+## Используя данные интернет-магазина приоритезировать гипотезы, произвести оценку результатов A/B-тестирования различными методами
 
 **Заказчик:** некий интернет-магазин.
 
