@@ -11,4 +11,4 @@
 | [Исследование данных интернет-магазина](https://github.com/Nanobelka/Yandex_Praktikum/tree/main/online_shop) | Подготовка рекомендаций по результатам анализа А/В-теста | pandas, numpy, matplotlib, seaborn, scipy |
 | [Исследование с применением когортного анализа](https://github.com/Nanobelka/Yandex_Praktikum/tree/main/cohort_analysis) | Расчет метрик продуктовых, электронной коммерции, маркетинговых | pandas, numpy, matplotlib, seaborn |
 
-https://github.com/Nanobelka/Yandex_Praktikum/blob/main/online_shop/online_shop.ipynb
+*! При загрузке в репозиторий форматирование тетрадок Jyputer Notebook частично нарушается. Например, пропадает нумерация разделов, цветное форматирование таблиц и т.д. Оригиналы в Jyputer Notebook выглядят лучше ))*
