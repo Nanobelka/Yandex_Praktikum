@@ -1,4 +1,4 @@
-# Прогнозирование оттока клиентов фитнесс-центра
+# [Прогнозирование оттока клиентов фитнесс-центра](https://github.com/Nanobelka/Yandex_Praktikum/blob/main/machine_learning/machine_learning.ipynb)
 
 **Заказчик:** сеть фитнес-центров «Культурист-датасаентист».
 
