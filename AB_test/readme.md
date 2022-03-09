@@ -1,4 +1,4 @@
-# [Исследование поведения пользователей в мобильном приложении](https://github.com/Nanobelka/Yandex_Praktikum/blob/main/AB_test/ab_test.ipynb)
+# [Анализ поведения пользователей в мобильном приложении](https://github.com/Nanobelka/Yandex_Praktikum/blob/main/AB_test/ab_test.ipynb)
 
 **Заказчик:** стартап, продающий продукты питания.
 
