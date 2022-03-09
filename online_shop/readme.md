@@ -1,4 +1,4 @@
-# Исследование данных интернет-магазина
+# [Исследование данных интернет-магазина](https://github.com/Nanobelka/Yandex_Praktikum/blob/main/online_shop/online_shop.ipynb)
 
 **Заказчик:** некий интернет-магазин.
 
