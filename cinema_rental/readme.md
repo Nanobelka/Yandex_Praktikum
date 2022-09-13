@@ -1,4 +1,4 @@
-# [Оптимизация маркетинговых затрат в Яндекс.Афише](https://github.com/Nanobelka/Yandex_Praktikum/blob/main/cohort_analysis/cohort_analysis.ipynb)
+# [Анализ рынка российского кинопроката]([https://github.com/Nanobelka/Yandex_Praktikum/blob/main/cohort_analysis/cohort_analysis.ipynb](https://github.com/Nanobelka/Yandex_Praktikum/blob/main/cinema_rental/cinema_rental.ipynb))
 ## Проведен анализ данных от Яндекс.Афиши с целью оптимизации маркетинговых затрат. Рассчитаны продуктовые метрики, метрики электронной коммерции, маркетинговые метрики: DAU, WAU, MAU, Retention rate, LTV, CAC, ROMI и некоторые другие.
 
 **Заказчик:** отдел маркетинговой аналитики.
