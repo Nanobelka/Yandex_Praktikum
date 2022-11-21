@@ -1,4 +1,4 @@
-# [Модель для прогнозирования оттока клиентов](https://github.com/Nanobelka/Yandex_Praktikum/blob/main/bank_churn_multi_models/bank_churn_multi_models.ipynb)
+# [Модель для прогнозирования оттока клиентов банка](https://github.com/Nanobelka/Yandex_Praktikum/blob/main/bank_churn_multi_models/bank_churn_multi_models.ipynb)
 ## На основании ряда характеристик создать портрет клиента, склонного к уходу из банка
 
 **Заказчик:** некий банк.
