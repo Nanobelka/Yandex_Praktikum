@@ -1,5 +1,5 @@
 # Яндекс.Практикум
-<img src="https://komarev.com/ghpvc/?username=your-github-Nanobelka&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=your-github-Nanobelka&style=flat-square&color=white" alt=""/>
 Проекты в рамках обучения на курсах "Аналитик данных" и "Data Science"
 
 | Название проекта      | Описание              | Инструменты и навыки      |
