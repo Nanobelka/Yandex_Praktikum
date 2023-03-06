@@ -5,7 +5,7 @@
 [Exploratory data analysis](https://github.com/Nanobelka/Yandex_Praktikum/blob/main/cardio/Cardio_1_EDA.ipynb)  
 [Feature engineering](https://github.com/Nanobelka/Yandex_Praktikum/blob/main/cardio/Cardio_2_FE.ipynb)  
 [Model selection and Final model](https://github.com/Nanobelka/Yandex_Praktikum/blob/main/cardio/Cardio_4_Model_Selection_XGBC.ipynb)  
-
+[Application](https://cardiovascular-disease-prediction.streamlit.app/)
 
 **Входные данные:** параметры обследованных пациентов; данные изначально разделены на обучающий и тестовый наборы.
 
@@ -34,3 +34,6 @@ Predict risk of heart diseases from patient lifestyle information.
 - оценить влияние признаков, при необходимости вернуться к этапу Feature Engineering;  
 - сохранить обученную модель;  
 - подготовить и сохранить submit file.
+
+[Application](https://github.com/Nanobelka/cardiovascular_disease_prediction/blob/main/Cardio_Streamlit.py)
+- используя обученную модель создать [Streamlit-приложение]((https://cardiovascular-disease-prediction.streamlit.app/)) ([репозиторий приложения](https://github.com/Nanobelka/cardiovascular_disease_prediction))
