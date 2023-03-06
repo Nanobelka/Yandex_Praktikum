@@ -1,4 +1,8 @@
-# [Модель, прогнозирующая отказ от брони в отеле](https://github.com/Nanobelka/Yandex_Praktikum/blob/main/hotel_deposit/hotel_deposit.ipynb)
+# Модель, прогнозирующая вероятность сердечно-сосудистых заболеваний  
+[Exploratory data analysis](https://github.com/Nanobelka/Yandex_Praktikum/blob/main/cardio/Cardio_1_EDA.ipynb)  
+[Feature engineering](https://github.com/Nanobelka/Yandex_Praktikum/blob/main/cardio/Cardio_2_FE.ipynb)  
+[Model selection and Final model](https://github.com/Nanobelka/Yandex_Praktikum/blob/main/cardio/Cardio_4_Model%20Selection_XGBC.ipynb)  
+
 ## На основании ряда характеристик заказа создать систему, предсказывающую отказ от заказа
 
 **Заказчик:** сеть отелей.
