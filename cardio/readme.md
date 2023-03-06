@@ -3,7 +3,7 @@
 [Feature engineering](https://github.com/Nanobelka/Yandex_Praktikum/blob/main/cardio/Cardio_2_FE.ipynb)  
 [Model selection and Final model](https://github.com/Nanobelka/Yandex_Praktikum/blob/main/cardio/Cardio_4_Model%20Selection_XGBC.ipynb)  
 
-## На основании ряда характеристик заказа создать систему, предсказывающую отказ от заказа
+## На основании параметров обследованных пациентов спрогнозировать вероятность наличия сердечно-сосудистого заболевания.
 
 **Заказчик:** сеть отелей.
 
