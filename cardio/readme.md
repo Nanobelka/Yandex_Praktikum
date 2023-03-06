@@ -20,3 +20,17 @@ Predict risk of heart diseases from patient lifestyle information.
 - исправить ошибки в данных;  
 - подготовить данные для feature engineering  
 
+[Feature engineering](https://github.com/Nanobelka/Yandex_Praktikum/blob/main/cardio/Cardio_2_FE.ipynb)  
+- исследовать варианты создания новых признаков;  
+- оценить значимость исходных и новых признаков для модели;  
+- подготовить данные для обучения модели.  
+
+[Model selection and Final model](https://github.com/Nanobelka/Yandex_Praktikum/blob/main/cardio/Cardio_4_Model_Selection_XGBC.ipynb)  
+- сделать несколько вариантов моделей и выполнить сравнительный запуск;  
+- оценить приемлемое время обучения моделей;  
+- оценить дополнительные метрики моделей;  
+- сохранить параметры обученных моделей;  
+- выбрать модель для углубленного изучения;  
+- оценить влияние признаков, при необходимости вернуться к этапу Feature Engineering;  
+- сохранить обученную модель;  
+- подготовить и сохранить submit file.
