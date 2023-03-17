@@ -1,4 +1,4 @@
-# Yandex.Practicum
+# Yandex.Praktikum
 ### Projects from courses "Data Analyst" and "Data Science"
 
 | Название проекта      | Описание              | Инструменты и навыки      |
