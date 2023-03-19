@@ -1,8 +1,9 @@
-# Яндекс.Практикум
-Проекты в рамках обучения на курсах "Аналитик данных" и "Data Science"
+# Yandex.Praktikum
+### Projects from courses "Data Analyst" and "Data Science"
 
 | Название проекта      | Описание              | Инструменты и навыки      |
 |:----------------------|:----------------------|:--------------------------|
+| [Модель для прогнозирования цены домовладения](https://github.com/Nanobelka/california-housing) | По ряду параметров жилового массива спрогнозировать медианную цену домовладения | `pySpark`, `MLlib`, `Pipeline`, `Python`, `K-Means` , заполнение пропусков по контексту, кластеризация, случайный поиск по сетке гиперпараметров, регрессия |
 | [Модель и приложение для прогнозирования вероятности сердечно-сосудистых заболеваний](https://github.com/Nanobelka/Yandex_Praktikum/tree/main/cardio) | На основании параметров обследованных пациентов спрогнозировать вероятность наличия сердечно-сосудистого заболевания. | `Streamlit`, `Python`, `Pandas`, `Seaborn`, `Sklearn`, `Pipeline`, `Optuna`, `permutation_importance`, feature engineering, target encoding, классификация, [онлайн-приложение](https://github.com/Nanobelka/cardiovascular_disease_prediction) |
 | [Модель, прогнозирующая отказ от брони в отеле](https://github.com/Nanobelka/Yandex_Praktikum/tree/main/hotel_deposit) | На основании ряда характеристик заказа создать систему, предсказывающую отказ от заказа | `Python`, `Pandas`, `Seaborn`, `Sklearn`, `Pipeline`, `ColumnTransformer`, `OneHotEncoder`, `Optuna`, `permutation_importance`, feature engineering, выбор и обоснование бизнес-метрики, классификация, сравнительное исследование моделей, визуализация важности признаков, оптимизация гиперпараметров с Optuna |
 | [Модель для прогнозирования оттока клиентов банка](https://github.com/Nanobelka/Yandex_Praktikum/tree/main/bank_churn_multi_models) | На основании ряда характеристик создать портрет клиента, склонного к уходу из банка | `Python`, `Pandas`, `Seaborn`, `Sklearn`, `Pipeline`, `ColumnTransformer`, `OneHotEncoder`, `Optuna`, `SVMSMOTE`, `imblearn`, `HistGradientBoostingClassifier`, `BalancedRandomForestClassifier`, `roc_auc_score`, `matthews_corrcoef`, `cohen_kappa_score`, `permutation_importance`, классификация, сравнительное исследование моделей, визуализация важности признаков, оптимизация гиперпараметров с Optuna |
