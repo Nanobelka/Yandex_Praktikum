@@ -1,3 +1,5 @@
+![Яндекс.Практикум](https://github.com/Nanobelka/Yandex_Praktikum/blob/main/images/praktikum_logo.png)
+
 # Yandex.Praktikum
 ### Projects from courses "Data Analyst" and "Data Science"
 
