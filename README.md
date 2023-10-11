@@ -2,7 +2,7 @@
 
 ### Projects from courses "Data Science" and "Data Analyst"
 
-| Project               | Description           | Tools and skills          |
+| Project               | Description           | Tools and Skills          |
 |:----------------------|:----------------------|:--------------------------|
 | [Классификация текстов на позитивные и негативные](https://github.com/Nanobelka/toxic_comments) | На основе набора текстов с разметкой о токсичности создать модель для классификации текстов на позитивные и негативные | `Python`, `nltk`, `TfidfVectorizer`, `Pandas`, `Seaborn`, `Optuna`, `yellowbrick`, NLP, TF-IDF, проверка разметки данных, токенизация, лемматизация |
 | [Прогнозирование количества заказов такси: временные ряды](https://github.com/Nanobelka/taxi_orders) | По историческим данным спрогнозировать потребность количества такси | `Python`, `statsmodels`, `Pandas`, `Seaborn`, `Sklearn`, `Optuna`, временные ряды: скользящие статистики, тренд, цикличность,  стационарность, разность, автокорреляция |
